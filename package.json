@@ -1,0 +1,24 @@
+{
+  "name": "waitsfieldlaundromat",
+  "version": "1.0.0",
+  "description": "application for 496laundry",
+  "main": "server.js",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenp90/WaitsfieldLaundromat.git"
+  },
+  "author": "Helen Pitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenp90/WaitsfieldLaundromat/issues"
+  },
+  "homepage": "https://github.com/helenp90/WaitsfieldLaundromat#readme"
+}
