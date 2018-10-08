@@ -1,0 +1,21 @@
+Fonts:
+
+Main Font: Rounded Elegance
+Main Font: Rounded Elegance
+
+Colors:
+
+White (Background)
+
+Hex: #fff
+RGB: rgb(255, 255, 255)
+
+Lucky Point (Main Font)
+
+Hex: #191560
+RGB: rgb(25, 21, 96)
+
+Lucky Point (Main Font)
+
+Hex: #191560
+RGB: rgb(25, 21, 96)
