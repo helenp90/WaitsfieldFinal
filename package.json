@@ -4,7 +4,8 @@
   "description": "application for 496laundry",
   "main": "server.js",
   "dependencies": {
-    "express.js": "^1.0.0"
+    "express.js": "^1.0.0",
+    "googleapis": "^27.0.0"
   },
   "devDependencies": {},
   "scripts": {
